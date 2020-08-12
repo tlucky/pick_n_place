@@ -19,7 +19,7 @@ For the project the following parts are needed:\
 1x photodiode\
 4x resistor 470 Ohm
 
-And of course some screw and the 3d printed parts.
+And of course some wires, screws and the 3d printed parts.
 Which are shown in the next picture.
 <p align="center">
   <img src="https://github.com/tlucky/pick_n_place/blob/master/images/CAD_drawing.png" width="350" title="CAD drawing">
