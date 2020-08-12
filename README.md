@@ -11,13 +11,13 @@ A pick and place robot is designed and printed in 3d to pick up an object from a
 
 ## Setup
 For the project the following parts are needed:\
-1x Arduino Uno\
-1x ultrasonic sensor\
-2x servo (SG90)\
-1x servo (BMS-410C)\
-1x RGB-LED\
-1x photodiode\
-4x resistor 470 Ohm
+  1x Arduino Uno\
+  1x ultrasonic sensor\
+  2x servo (SG90)\
+  1x servo (BMS-410C)\
+  1x RGB-LED\
+  1x photodiode\
+  4x resistor 470 Ohm
 
 And of course some wires, screws and the 3d printed parts.
 Which are shown in the next picture.
