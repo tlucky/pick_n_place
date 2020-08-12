@@ -10,6 +10,6 @@ circuit_diagram
 ## Setup
 Project is created using an Arduino 
 
-![CAD drawing](https://github.com/tlucky/pick_n_place/tree/master/images/CAD_drawing.png)
+![CAD drawing](https://github.com/tlucky/pick_n_place/tree/master/images/CAD_drawing.png  "CAD drawing")
 
-![circuit_diagramm](https://github.com/tlucky/pick_n_place/tree/master/images/circuit_diagramm.png)
+![circuit_diagram](https://github.com/tlucky/pick_n_place/tree/master/images/circuit_diagramm.png "Circuit diagram")
