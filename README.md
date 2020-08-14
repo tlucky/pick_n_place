@@ -27,7 +27,7 @@ Which are shown in the next picture.
   <img src="https://github.com/tlucky/pick_n_place/blob/master/images/CAD_drawing.png" width="350" title="CAD drawing">
 </p>
 
-The circuid diagram (without the three resistors for the RGB-LED) is shown in the next picture.
+The circuit diagram (without the three resistors for the RGB-LED) is shown in the next picture.
 <p align="center">
   <img src="https://github.com/tlucky/pick_n_place/blob/master/images/circuit_diagram.png" width="350" title="Circuit diagram">
 </p>
